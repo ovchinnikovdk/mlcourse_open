@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+**/.idea/
 env/
 build/
 develop-eggs/
@@ -79,7 +80,7 @@ celerybeat-schedule
 # dotenv
 .env
 
-# Jupyter 
+# Jupyter
 *.DS_Store
 
 # virtualenv
